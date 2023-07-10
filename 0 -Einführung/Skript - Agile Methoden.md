@@ -33,7 +33,8 @@ Ich wünsche ich für eure Vorhaben viel Erfolg.
 - [Scrum.org: Die drei Säulen der Empirie](https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum)
 - [Das Cynefin Modell - Komplexität nach Dave Snowden](https://www.youtube.com/watch?v=N7oz366X0-8)
 
-## Anmerkungen
+## Anmerkungen von Felix
+
 ...und bekomme so hautnah auch alle Herausforderungen aber auch die positiven Entwicklungen innerhalb eines Teams mit.
 
 Daher denke ich, kann meine Erfahrung in der Softwareentwicklung, mit unterschiedlichen Teams, in der con terra auch euch zu Gute kommen.
