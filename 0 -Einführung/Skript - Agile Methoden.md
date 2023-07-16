@@ -4,15 +4,15 @@
 
 Hallo zusammen!
 
-In diesem ersten Video möchte ich mich euch vorstellen, damit ihr einen ersten Eindruck bekommt, worin meine Erfahrung besteht, die ich diesem Workshop mit euch teilen möchte. Ich glaube, dass viele Aspekte der Zusammenarbeit unabhängig davon sind, ob sie im Berufsleben oder an der Uni stattfinden. Daher glaube ich kann meine Erfahrung mit Software und anderen Teams in der con terra auch euch zu Gute kommen.
+In diesem ersten Video möchte ich mich euch vorstellen, damit ihr einen ersten Eindruck bekommt, worin meine Erfahrung besteht, die ich diesem Workshop mit euch teilen möchte. Ich glaube, dass viele Aspekte der Zusammenarbeit unabhängig davon sind, ob sie im Berufsleben oder an der Uni stattfinden. Daher denke ich, kann euch meine Erfahrung in der Softwareentwicklung, mit unterschiedlichen Teams in der con terra ebenfalls zu Gute kommen.
 
-Zum einen bin ich seit vielen Jahren in der Rolle des Scrum Master Teil eines Produkt Entwicklungsteams. So bin ich dauerhaft ganz nah dran und Teil eines Teams, welches agil und nach Scrum arbeitet - und bekomme so hautnah auch alle Herausforderungen aber auch die positiven Veränderungen mit, die das Team hervorbringt.
+Zum einen bin ich seit vielen Jahren in der Rolle des Scrum Master Teil eines Produkt Entwicklungsteams. So bin ich dauerhaft ganz nah dran und Teil eines Teams, welches agil und nach Scrum arbeitet. So bekomme ich hautnah viele der Herausforderungen aber auch die positiven Entwicklungen innerhalb eines Teams mit.
 
-2019 habe ich nach einer mehrtägigen Ausbildung zum Agile Coach auch vermehrt die Unterstützung anderer Teams und Projekte in der con terra begonnen. Ein Einstieg ist dann häufig die Moderation von Retrospektiven, in denen die Teams gemeinsam Lernen und Verbesserungen für ihre Zusammenarbeit entwickeln. Später dazu sicher mehr ...
+2019 habe ich nach Ausbildung bzw. einem Lehrgang zum Agile Coach auch vermehrt die Unterstützung anderer Teams und Projekte in der con terra begonnen. Ein Einstieg ist dann häufig die Moderation von Retrospektiven, in denen die Teams gemeinsam Lernen und Verbesserungen für ihre Zusammenarbeit entwickeln. Später dazu sicher mehr ...
 
-Das soll erstmal zu mir genügen. Gerne beantworte ich euch alle Fragen, die mich erreichen.
+Das soll erstmal zu mir genügen. Gerne beantworte ich euch alle Fragen, inhaltlich oder zu mir, die mich erreichen.
 
-"Und warum nicht einfach YouTube schauen?" fragt ihr euch vielleicht. In der Vorbereitung und bei der Auswahl der Themen und Tools ist klar geworden, dass ein enger Draht zu euch über die Fachschaft dabei hilft, den Workshop besser auf eure Fragestellungen im Alltag zuschneiden zu können. Vorteilhaft fanden wir auch  die Interaktivität und die Möglichkeit, dass ihr euch etwas weniger linear durch das Material bewegen könnt wie in einem Video - zum Beispiel um an den Stellen etwas zu vertiefen, wo eure individuellen Fragen sind. Und außerdem bin ich in Münster "stationiert" und somit bei Bedarf für weitere Fragen immer erreichbar.
+"Und warum nicht einfach YouTube schauen?" fragt ihr euch vielleicht. In der Vorbereitung und bei der Auswahl der Themen und Tools ist klar geworden, dass ein enger Draht zu euch über die Fachschaft dabei hilft, den Workshop besser auf eure Fragestellungen im Alltag zuschneiden zu können. Vorteilhaft fanden wir auch  die Interaktivität und die Möglichkeit, dass ihr euch zielgerichteter durch das Material bewegen könnt als in einem Video - zum Beispiel um an den Stellen etwas zu vertiefen, wo eure individuellen Fragen sind.
 
 Bevor wir in den nächsten Einheiten die ersten konkreten inhaltlichen Themen besprechen, möchte ich noch ein paar Grundannahmen für den weiteren Verlauf mit euch teilen:
 
@@ -25,32 +25,13 @@ Aus meiner Berufserfahrung weiß ich, dass es nur mit Offenheit, Respekt und etw
 
 Ich hoffe, dieser Workshop kann euch ein paar Impulse geben und dazu animieren, mit zu eurer jeweiligen Situation passenden, kleinen Experimenten bessere Lösungen und Vorgehensweisen zu finden.
 
-Und damit dieses Workshop Material keine Einbahnstraße bleibt, bitte ich euch, eure Fragen oder Anregungen mit mir zu teilen. Am Ende ist auch dieser Workshop auch ein Experiment, das wir auf seine Effektivität prüfen und verbessern wollen.
+Und damit dieses Workshop Material keine Einbahnstraße bleibt, bitte ich euch, eure Fragen oder Anregungen mit mir zu teilen.
+
+Am Ende ist auch dieser Workshop ein Experiment, das wir auf seine Effektivität prüfen und verbessern wollen.
 
 Ich wünsche ich für eure Vorhaben viel Erfolg.
 
 ## Quellen
+
 - [Scrum.org: Die drei Säulen der Empirie](https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum)
 - [Das Cynefin Modell - Komplexität nach Dave Snowden](https://www.youtube.com/watch?v=N7oz366X0-8)
-
-## Anmerkungen von Felix
-
-...und bekomme so hautnah auch alle Herausforderungen aber auch die positiven Entwicklungen innerhalb eines Teams mit.
-
-Daher denke ich, kann meine Erfahrung in der Softwareentwicklung, mit unterschiedlichen Teams, in der con terra auch euch zu Gute kommen.
-
-2019 habe ich nach Ausbildung/ einem Lehrgang zum Agile Coach auch vermehrt die Unterstützung anderer Teams und Projekte in der con terra in Münster begonnen. Ein Einstieg ist dann häufig die Moderation von Retrospektiven, in denen die Teams gemeinsam Lernen und Verbesserungen für ihre Zusammenarbeit entwickeln. Später dazu sicher mehr ...
-
-Das soll erstmal zu mir genügen. Gerne beantworte ich euch alle Fragen, inhaltlich oder zu mir, die mich erreichen.
-
-dass ihr euch zielgerichteter durch das Material bewegen könnt als in einem Video
-
-[delete]Und außerdem bin ich in Münster "stationiert" und somit bei Bedarf für weitere Fragen immer erreichbar.[delete]
-
-Am Ende ist auch dieser Workshop ein Experiment, das wir auf seine Effektivität prüfen und verbessern wollen.
-
-Eingehen auf Struktur? Check-In usw?
-
-Auf Miro schreiben?
-
---
