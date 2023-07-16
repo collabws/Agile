@@ -1,6 +1,6 @@
 # Agile Collaboration Workshop
 
-> Für Scrum agile Methoden, Teamwork und Retrospektiven.
+> Für Scrum, agile Methoden, Teamwork und Retrospektiven.
 
 ## Inhalte
 
