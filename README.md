@@ -2,7 +2,10 @@
 
 > Für Scrum, agile Methoden, Teamwork und Retrospektiven.
 
-## Inhalte
+## Aufbau dieses Kurses
 
-- Einführung
-- Aufgabenverteilung
+Dieser Kurs glieder sich in die folgenden Lerneinheiten:
+
+1. Einführung
+2. Aufgabenverteilung
+3. 
